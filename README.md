@@ -60,7 +60,7 @@ For more information on using the Angular CLI, including detailed command refere
 
 
 <!--
-Julia link
+Julia link take this file
 
 https://drive.google.com/drive/folders/10cywYN5Cme_7gicjI4JHS_R5v5ryhwl_
 
